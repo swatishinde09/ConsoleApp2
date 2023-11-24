@@ -14,7 +14,7 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            Program p = new Program()
+            Program p = new Program();
             p.display();
             Console.ReadLine();
         }
